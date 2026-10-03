@@ -1,5 +1,9 @@
-## 📊 Apresentação
+## 📊 Apresentação do Projeto
 
-[📄 Baixar/visualizar apresentação](./apresentacao-projeto.pdf)
+[![Capa da apresentação](./capa-apresentacao.png)](./apresentacao-projeto.pdf)
 
-[🎨 Visualizar apresentação no Canva](LINK_DO_CANVA)
+> 💡 **Clique na capa para visualizar a apresentação completa em PDF.**
+
+### 🎨 Versão no Canva
+
+[🔗 **Visualizar apresentação no Canva**](COLE_AQUI_O_LINK_DO_CANVA)
